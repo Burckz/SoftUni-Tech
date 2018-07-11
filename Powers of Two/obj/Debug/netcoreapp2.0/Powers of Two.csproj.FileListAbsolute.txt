@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Advanced Loops\Powers of Two\bin\Debug\netcoreapp2.0\Powers of Two.deps.json
+C:\Users\User\source\repos\Advanced Loops\Powers of Two\bin\Debug\netcoreapp2.0\Powers of Two.runtimeconfig.json
+C:\Users\User\source\repos\Advanced Loops\Powers of Two\bin\Debug\netcoreapp2.0\Powers of Two.runtimeconfig.dev.json
+C:\Users\User\source\repos\Advanced Loops\Powers of Two\bin\Debug\netcoreapp2.0\Powers of Two.dll
+C:\Users\User\source\repos\Advanced Loops\Powers of Two\bin\Debug\netcoreapp2.0\Powers of Two.pdb
+C:\Users\User\source\repos\Advanced Loops\Powers of Two\obj\Debug\netcoreapp2.0\Powers of Two.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Advanced Loops\Powers of Two\obj\Debug\netcoreapp2.0\Powers of Two.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Advanced Loops\Powers of Two\obj\Debug\netcoreapp2.0\Powers of Two.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Advanced Loops\Powers of Two\obj\Debug\netcoreapp2.0\Powers of Two.AssemblyInfo.cs
+C:\Users\User\source\repos\Advanced Loops\Powers of Two\obj\Debug\netcoreapp2.0\Powers of Two.dll
+C:\Users\User\source\repos\Advanced Loops\Powers of Two\obj\Debug\netcoreapp2.0\Powers of Two.pdb
