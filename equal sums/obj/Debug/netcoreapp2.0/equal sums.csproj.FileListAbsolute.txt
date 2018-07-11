@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays - Exercises\equal sums\bin\Debug\netcoreapp2.0\equal sums.deps.json
+C:\Users\User\source\repos\Arrays - Exercises\equal sums\bin\Debug\netcoreapp2.0\equal sums.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Exercises\equal sums\bin\Debug\netcoreapp2.0\equal sums.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Exercises\equal sums\bin\Debug\netcoreapp2.0\equal sums.dll
+C:\Users\User\source\repos\Arrays - Exercises\equal sums\bin\Debug\netcoreapp2.0\equal sums.pdb
+C:\Users\User\source\repos\Arrays - Exercises\equal sums\obj\Debug\netcoreapp2.0\equal sums.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Exercises\equal sums\obj\Debug\netcoreapp2.0\equal sums.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\equal sums\obj\Debug\netcoreapp2.0\equal sums.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\equal sums\obj\Debug\netcoreapp2.0\equal sums.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Exercises\equal sums\obj\Debug\netcoreapp2.0\equal sums.dll
+C:\Users\User\source\repos\Arrays - Exercises\equal sums\obj\Debug\netcoreapp2.0\equal sums.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays - Exercises\index of letters\bin\Debug\netcoreapp2.0\index of letters.deps.json
+C:\Users\User\source\repos\Arrays - Exercises\index of letters\bin\Debug\netcoreapp2.0\index of letters.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Exercises\index of letters\bin\Debug\netcoreapp2.0\index of letters.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Exercises\index of letters\bin\Debug\netcoreapp2.0\index of letters.dll
+C:\Users\User\source\repos\Arrays - Exercises\index of letters\bin\Debug\netcoreapp2.0\index of letters.pdb
+C:\Users\User\source\repos\Arrays - Exercises\index of letters\obj\Debug\netcoreapp2.0\index of letters.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Exercises\index of letters\obj\Debug\netcoreapp2.0\index of letters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\index of letters\obj\Debug\netcoreapp2.0\index of letters.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\index of letters\obj\Debug\netcoreapp2.0\index of letters.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Exercises\index of letters\obj\Debug\netcoreapp2.0\index of letters.dll
+C:\Users\User\source\repos\Arrays - Exercises\index of letters\obj\Debug\netcoreapp2.0\index of letters.pdb

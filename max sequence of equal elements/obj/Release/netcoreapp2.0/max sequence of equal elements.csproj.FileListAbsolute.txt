@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Arrays - Exercises\max sequence of equal elements\bin\Release\netcoreapp2.0\max sequence of equal elements.deps.json
+C:\Users\User\source\repos\Arrays - Exercises\max sequence of equal elements\bin\Release\netcoreapp2.0\max sequence of equal elements.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Exercises\max sequence of equal elements\bin\Release\netcoreapp2.0\max sequence of equal elements.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Exercises\max sequence of equal elements\bin\Release\netcoreapp2.0\max sequence of equal elements.dll
+C:\Users\User\source\repos\Arrays - Exercises\max sequence of equal elements\bin\Release\netcoreapp2.0\max sequence of equal elements.pdb
+C:\Users\User\source\repos\Arrays - Exercises\max sequence of equal elements\obj\Release\netcoreapp2.0\max sequence of equal elements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\max sequence of equal elements\obj\Release\netcoreapp2.0\max sequence of equal elements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\max sequence of equal elements\obj\Release\netcoreapp2.0\max sequence of equal elements.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Exercises\max sequence of equal elements\obj\Release\netcoreapp2.0\max sequence of equal elements.dll
+C:\Users\User\source\repos\Arrays - Exercises\max sequence of equal elements\obj\Release\netcoreapp2.0\max sequence of equal elements.pdb

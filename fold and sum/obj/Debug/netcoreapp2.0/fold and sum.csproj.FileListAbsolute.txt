@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays - Exercises\fold and sum\bin\Debug\netcoreapp2.0\fold and sum.deps.json
+C:\Users\User\source\repos\Arrays - Exercises\fold and sum\bin\Debug\netcoreapp2.0\fold and sum.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Exercises\fold and sum\bin\Debug\netcoreapp2.0\fold and sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Exercises\fold and sum\bin\Debug\netcoreapp2.0\fold and sum.dll
+C:\Users\User\source\repos\Arrays - Exercises\fold and sum\bin\Debug\netcoreapp2.0\fold and sum.pdb
+C:\Users\User\source\repos\Arrays - Exercises\fold and sum\obj\Debug\netcoreapp2.0\fold and sum.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Exercises\fold and sum\obj\Debug\netcoreapp2.0\fold and sum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\fold and sum\obj\Debug\netcoreapp2.0\fold and sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Exercises\fold and sum\obj\Debug\netcoreapp2.0\fold and sum.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Exercises\fold and sum\obj\Debug\netcoreapp2.0\fold and sum.dll
+C:\Users\User\source\repos\Arrays - Exercises\fold and sum\obj\Debug\netcoreapp2.0\fold and sum.pdb
