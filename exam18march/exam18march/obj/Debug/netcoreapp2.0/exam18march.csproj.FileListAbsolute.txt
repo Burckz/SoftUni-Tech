@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\exam18march\exam18march\bin\Debug\netcoreapp2.0\exam18march.deps.json
+C:\Users\User\source\repos\exam18march\exam18march\bin\Debug\netcoreapp2.0\exam18march.runtimeconfig.json
+C:\Users\User\source\repos\exam18march\exam18march\bin\Debug\netcoreapp2.0\exam18march.runtimeconfig.dev.json
+C:\Users\User\source\repos\exam18march\exam18march\bin\Debug\netcoreapp2.0\exam18march.dll
+C:\Users\User\source\repos\exam18march\exam18march\bin\Debug\netcoreapp2.0\exam18march.pdb
+C:\Users\User\source\repos\exam18march\exam18march\obj\Debug\netcoreapp2.0\exam18march.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\exam18march\exam18march\obj\Debug\netcoreapp2.0\exam18march.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\exam18march\exam18march\obj\Debug\netcoreapp2.0\exam18march.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\exam18march\exam18march\obj\Debug\netcoreapp2.0\exam18march.AssemblyInfo.cs
+C:\Users\User\source\repos\exam18march\exam18march\obj\Debug\netcoreapp2.0\exam18march.dll
+C:\Users\User\source\repos\exam18march\exam18march\obj\Debug\netcoreapp2.0\exam18march.pdb

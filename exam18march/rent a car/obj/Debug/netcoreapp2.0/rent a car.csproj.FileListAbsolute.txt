@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\exam18march\rent a car\bin\Debug\netcoreapp2.0\rent a car.deps.json
+C:\Users\User\source\repos\exam18march\rent a car\bin\Debug\netcoreapp2.0\rent a car.runtimeconfig.json
+C:\Users\User\source\repos\exam18march\rent a car\bin\Debug\netcoreapp2.0\rent a car.runtimeconfig.dev.json
+C:\Users\User\source\repos\exam18march\rent a car\bin\Debug\netcoreapp2.0\rent a car.dll
+C:\Users\User\source\repos\exam18march\rent a car\bin\Debug\netcoreapp2.0\rent a car.pdb
+C:\Users\User\source\repos\exam18march\rent a car\obj\Debug\netcoreapp2.0\rent a car.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\exam18march\rent a car\obj\Debug\netcoreapp2.0\rent a car.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\exam18march\rent a car\obj\Debug\netcoreapp2.0\rent a car.AssemblyInfo.cs
+C:\Users\User\source\repos\exam18march\rent a car\obj\Debug\netcoreapp2.0\rent a car.dll
+C:\Users\User\source\repos\exam18march\rent a car\obj\Debug\netcoreapp2.0\rent a car.pdb

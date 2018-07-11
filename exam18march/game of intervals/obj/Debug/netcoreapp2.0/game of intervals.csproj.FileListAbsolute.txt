@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\exam18march\game of intervals\bin\Debug\netcoreapp2.0\game of intervals.deps.json
+C:\Users\User\source\repos\exam18march\game of intervals\bin\Debug\netcoreapp2.0\game of intervals.runtimeconfig.json
+C:\Users\User\source\repos\exam18march\game of intervals\bin\Debug\netcoreapp2.0\game of intervals.runtimeconfig.dev.json
+C:\Users\User\source\repos\exam18march\game of intervals\bin\Debug\netcoreapp2.0\game of intervals.dll
+C:\Users\User\source\repos\exam18march\game of intervals\bin\Debug\netcoreapp2.0\game of intervals.pdb
+C:\Users\User\source\repos\exam18march\game of intervals\obj\Debug\netcoreapp2.0\game of intervals.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\exam18march\game of intervals\obj\Debug\netcoreapp2.0\game of intervals.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\exam18march\game of intervals\obj\Debug\netcoreapp2.0\game of intervals.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\exam18march\game of intervals\obj\Debug\netcoreapp2.0\game of intervals.AssemblyInfo.cs
+C:\Users\User\source\repos\exam18march\game of intervals\obj\Debug\netcoreapp2.0\game of intervals.dll
+C:\Users\User\source\repos\exam18march\game of intervals\obj\Debug\netcoreapp2.0\game of intervals.pdb

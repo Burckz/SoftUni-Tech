@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\exam18march\softuni logo\obj\Debug\netcoreapp2.0\softuni logo.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\exam18march\softuni logo\obj\Debug\netcoreapp2.0\softuni logo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\exam18march\softuni logo\obj\Debug\netcoreapp2.0\softuni logo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\exam18march\softuni logo\obj\Debug\netcoreapp2.0\softuni logo.AssemblyInfo.cs
+C:\Users\User\source\repos\exam18march\softuni logo\bin\Debug\netcoreapp2.0\softuni logo.deps.json
+C:\Users\User\source\repos\exam18march\softuni logo\bin\Debug\netcoreapp2.0\softuni logo.runtimeconfig.json
+C:\Users\User\source\repos\exam18march\softuni logo\bin\Debug\netcoreapp2.0\softuni logo.runtimeconfig.dev.json
+C:\Users\User\source\repos\exam18march\softuni logo\bin\Debug\netcoreapp2.0\softuni logo.dll
+C:\Users\User\source\repos\exam18march\softuni logo\bin\Debug\netcoreapp2.0\softuni logo.pdb
+C:\Users\User\source\repos\exam18march\softuni logo\obj\Debug\netcoreapp2.0\softuni logo.dll
+C:\Users\User\source\repos\exam18march\softuni logo\obj\Debug\netcoreapp2.0\softuni logo.pdb

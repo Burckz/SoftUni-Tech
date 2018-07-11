@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\exam18march\work hours\bin\Debug\netcoreapp2.0\work hours.deps.json
+C:\Users\User\source\repos\exam18march\work hours\bin\Debug\netcoreapp2.0\work hours.runtimeconfig.json
+C:\Users\User\source\repos\exam18march\work hours\bin\Debug\netcoreapp2.0\work hours.runtimeconfig.dev.json
+C:\Users\User\source\repos\exam18march\work hours\bin\Debug\netcoreapp2.0\work hours.dll
+C:\Users\User\source\repos\exam18march\work hours\bin\Debug\netcoreapp2.0\work hours.pdb
+C:\Users\User\source\repos\exam18march\work hours\obj\Debug\netcoreapp2.0\work hours.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\exam18march\work hours\obj\Debug\netcoreapp2.0\work hours.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\exam18march\work hours\obj\Debug\netcoreapp2.0\work hours.AssemblyInfo.cs
+C:\Users\User\source\repos\exam18march\work hours\obj\Debug\netcoreapp2.0\work hours.dll
+C:\Users\User\source\repos\exam18march\work hours\obj\Debug\netcoreapp2.0\work hours.pdb
